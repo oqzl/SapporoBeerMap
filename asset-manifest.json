@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/SapporoBeerMap/static/css/main.6790771c.chunk.css",
-    "main.js": "/SapporoBeerMap/static/js/main.e7fdfdb1.chunk.js",
-    "main.js.map": "/SapporoBeerMap/static/js/main.e7fdfdb1.chunk.js.map",
+    "main.js": "/SapporoBeerMap/static/js/main.5a9b700c.chunk.js",
+    "main.js.map": "/SapporoBeerMap/static/js/main.5a9b700c.chunk.js.map",
     "runtime-main.js": "/SapporoBeerMap/static/js/runtime-main.87e08407.js",
     "runtime-main.js.map": "/SapporoBeerMap/static/js/runtime-main.87e08407.js.map",
     "static/js/2.94967b5d.chunk.js": "/SapporoBeerMap/static/js/2.94967b5d.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.87e08407.js",
     "static/js/2.94967b5d.chunk.js",
     "static/css/main.6790771c.chunk.css",
-    "static/js/main.e7fdfdb1.chunk.js"
+    "static/js/main.5a9b700c.chunk.js"
   ]
 }
